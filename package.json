@@ -1,1 +1,20 @@
-{}
+{
+  "name": "netlify-thing",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo ok",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/netlify-thing.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/netlify-thing/issues"
+  },
+  "homepage": "https://github.com/nichoth/netlify-thing#readme",
+  "description": ""
+}
